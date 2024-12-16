@@ -1,0 +1,2 @@
+# NB_project
+Statistic_analysis_multivariative_LMM_regression 
