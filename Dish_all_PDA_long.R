@@ -1,6 +1,6 @@
 
 
-df_Dish_longcvs <- read.csv("/Users/daria/Projects_mac/Project_nanobodies_mac/R_statistics_NB/Dish_all_PDA_longcsv.csv", sep=";")
+df_Dish_longcvs <- read.csv("/... Dish_all_PDA_longcsv.csv", sep=";")
 
 head(df_Dish_longcvs)
 library(tidyverse)
